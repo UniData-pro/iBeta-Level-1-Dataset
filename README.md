@@ -16,16 +16,11 @@ Each attack was filmed on an **Apple iPhone** and **Google Pixel**.
 7. **Real Person**: real videos of people
 ## 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/ibeta-level-1-video-attacks/?utm_source=github&utm_medium=cpc&utm_campaign=ibeta-level-1) to discuss your requirements and pricing options.
 ## Metadata for the dataset
-Gender/Ethnicity	Black People	Caucasians Total
-FEMALE	2	23 25
-MALE	12	13 25
-Total	14	36 50
-
-| Gender/Ethnicity | Black People | Caucasians | Total |
+| Gender / Ethnicity | Black People | Caucasians | Total |
+| --- | --- | --- | --- |
 | FEMALE | 2 | 23 | 25 |
 | MALE | 12 | 13 | 25 |
 | Total | 14 | 36 | 50 |
-
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F22059654%2F1b66b204f0375df6f74e385b8aca0420%2FFrame%20123.png?generation=1724169445788884&alt=media)
 The iBeta Level 1 dataset is an essential tool for the biometrics industry, as it helps to ensure that biometric systems meet the highest standards of anti-spoofing technology. This dataset is used by various biometric companies in various applications and products to test and improve their *biometric authentication solutions, face recognition systems, and facial liveness detection methods.*
 ## 🌐 [UniData](https://unidata.pro/datasets/ibeta-level-1-video-attacks/?utm_source=github&utm_medium=cpc&utm_campaign=ibeta-level-1) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
